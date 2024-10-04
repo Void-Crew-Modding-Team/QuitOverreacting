@@ -10,7 +10,7 @@ namespace QuitOverreacting
         public const string PLUGIN_VERSION = "0.0.1";
         public const string PLUGIN_DESCRIPTION = "Stops player breathing noises when the player isn't taking damage. Client Side.";
         public const string PLUGIN_ORIGINAL_AUTHOR = "18107";
-        public const string PLUGIN_AUTHORS = "18107";
+        public const string PLUGIN_AUTHORS = "18107, Dragon";
         public const string PLUGIN_THUNDERSTORE_ID = "VoidCrewModdingTeam/Quit_Overreacting";
     }
 }
