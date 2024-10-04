@@ -6,8 +6,10 @@ namespace QuitOverreacting
     {
         public override MultiplayerType MPType => MultiplayerType.Client;
 
-        public override string Author => "18107";
+        public override string Author => MyPluginInfo.PLUGIN_AUTHORS;
 
-        public override string Description => "Stops player breathing noises when the player isn't taking damage";
+        public override string Description => MyPluginInfo.PLUGIN_DESCRIPTION;
+
+        public override string ThunderstoreID => MyPluginInfo.PLUGIN_THUNDERSTORE_ID;
     }
 }
